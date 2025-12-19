@@ -9,6 +9,7 @@ public class Practice1Test
 	{
 		System.out.println("Audi");
 		System.out.println("Benz");
+		System.out.println("KIA");
 	}
 
 }
